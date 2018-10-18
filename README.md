@@ -19,7 +19,7 @@ Run `npm start` for a dev server. Navigate to `http://localhost:4200/`. The app 
 
 ### Users Can be seen after running start
 
-![Users in Action](./src/assets/users.png)
+![Users in Action](./src/assets/users.PNG)
 
 ## Build
 
@@ -31,11 +31,11 @@ Run `npm test` to execute the unit tests via [Karma](https://karma-runner.github
 
 ### Test CLI
 
-![Test CLI](./src/assets/test-cli.png)
+![Test CLI](./src/assets/test-cli.PNG)
 
 ### Test Passing
 
-![Test Results in Chrome](./src/assets/test-chrome.png)
+![Test Results in Chrome](./src/assets/test-chrome.PNG)
 
 ## Running end-to-end tests
 
